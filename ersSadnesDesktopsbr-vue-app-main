@@ -1,0 +1,40 @@
+[33mcommit 14b4ef9d3b6def40b3f9c458d67732a907d921e7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Sadnesjke <xyilaxdolbaeb@mail.ru>
+Date:   Tue Jun 23 22:10:37 2026 +0800
+
+    Первый коммит: проект SBR
+
+.gitignore
+README.md
+docs/assets/index-CWpHzOsY.css
+docs/assets/index-CwWN9sgp.js
+docs/favicon.ico
+docs/images/avatar.jpg
+docs/images/coworking.jpg
+docs/images/hero-bg.jpg
+docs/images/pereg.jpg
+docs/images/person1.jpg
+docs/images/person2.jpg
+docs/index.html
+index.html
+jsconfig.json
+package-lock.json
+package.json
+public/favicon.ico
+public/images/avatar.jpg
+public/images/coworking.jpg
+public/images/hero-bg.jpg
+public/images/pereg.jpg
+public/images/person1.jpg
+public/images/person2.jpg
+sbr-app
+src/App.vue
+src/assets/main.css
+src/components/ProfileMenu.vue
+src/main.js
+src/router/index.js
+src/views/BookingPage.vue
+src/views/HomePage.vue
+src/views/NewEventPage.vue
+src/views/PeoplePage.vue
+vite.config.js
